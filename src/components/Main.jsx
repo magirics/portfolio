@@ -1,4 +1,6 @@
-import { Box, Divider, Image, Text } from "@chakra-ui/react";
+import { Box, Divider, Icon, Image, Link, Text } from "@chakra-ui/react";
+import Project from "./Project";
+import projects from "../projects";
 
 export default function Main(props) {
     return <>
@@ -21,6 +23,15 @@ export default function Main(props) {
         <Divider borderColor='black'></Divider>
         <section>
             <Text as='h2' fontSize='2xl' fontWeight='semibold'>Projects</Text>
+            {projects.map((p, i) =>
+                <Project
+                    key={i}
+                    name={p.name}
+                    description={p.description}
+                    link={p.link}
+                    images={p.images}
+                ></Project>
+            )}
         </section>
     </>
 }
