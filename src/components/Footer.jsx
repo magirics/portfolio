@@ -18,7 +18,7 @@ export default function Footer(props) {
       </Box>
       <Box display='inline-block'>
         <Text fontWeight='semibold'>LinkedIn:</Text>
-        <Link href='https://linkedin.com/in/diego-figueroa-6b0986270' isExternal>Diego Figueroa</Link>
+        <Link href='https://linkedin.com/in/diego-figueroa-juarez-6b0986270' isExternal>Diego Figueroa</Link>
       </Box>
     </footer>
   }
