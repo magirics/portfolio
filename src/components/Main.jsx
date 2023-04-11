@@ -7,7 +7,7 @@ export default function Main(props) {
         <section>
             <Text as='h2' fontSize='2xl' fontWeight='semibold' marginBottom='1rem'>Front-end developer and Data Scientist</Text>
             <Image
-                src='photo.jpg'
+                src='https://raw.githubusercontent.com/magirics/portfolio/main/public/photo.jpg'
                 alt='Photo of Diego Figueroa Juarez'
                 width='10rem'
                 height='10rem'

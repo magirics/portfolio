@@ -14,6 +14,7 @@ export default function Project(props) {
                         <Image
                             src={img.src}
                             alt={img.caption}
+                            {...img}
                             boxShadow='base'
                         ></Image>
                     </Link>

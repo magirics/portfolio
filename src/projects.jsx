@@ -10,20 +10,28 @@ const collab = <svg><g>
 </g></svg>
 
 export default [
-    // {
-    //     name: 'ChakraUI',
-    //     description: 'Lorem ipsum dolor sit amet consectetur adipisicing elit. Vel cupiditate et reprehenderit neque quam aliquam repellendus dolore incidunt possimus repudiandae, dignissimos, ad modi est, voluptates aperiam voluptas nulla laboriosam. Ipsum!',
-    //     link: <Link href='_blank'><Icon as={FaGithub}></Icon></Link>,
-    //     images: [
-    //         { src: 'boxes3.png', caption: 'Even more boxes' },
-    //     ]
-    // },
-    // {
-    //     name: 'Firebase',
-    //     description: 'Lorem ipsum dolor sit amet consectetur adipisicing elit. Vel cupiditate et reprehenderit neque quam aliquam repellendus dolore incidunt possimus repudiandae, dignissimos, ad modi est, voluptates aperiam voluptas nulla laboriosam. Ipsum!',
-    //     link: <Link href='_blank'><Icon viewBox="0 0 24 24" filter='grayscale(100%)'>{collab}</Icon></Link>,
-    //     images: [
-    //         { src: 'boxes2.png', caption: 'More boxes' },
-    //     ]
-    // },
+    {
+        name: 'Mikrotres',
+        description: 'Inventory and transaction system prototypes. Firebase, ChakraUI, Formik, Dinero.js, and React were used in its development.',
+        link: <Link href='https://github.com/magirics/mikrotres' isExternal><Icon as={FaGithub} viewBox="0 0 24 24" filter='grayscale(100%)'></Icon></Link>,
+        images: [
+            {caption: 'Login page', width: '300px', src: 'https://raw.githubusercontent.com/magirics/mikrotres/media/readme/login.png'},
+            {caption: 'Inventory page', width: '300px', src: 'https://raw.githubusercontent.com/magirics/mikrotres/media/readme/inventory.png'},
+            {caption: 'Product form', width: '300px', src: 'https://raw.githubusercontent.com/magirics/mikrotres/media/readme/product_form.png'},
+            {caption: 'Transactions page', width: '300px', src: 'https://raw.githubusercontent.com/magirics/mikrotres/media/readme/transactions.png'},
+            {caption: 'Transaction form', width: '300px', src: 'https://raw.githubusercontent.com/magirics/mikrotres/media/readme/transactions_form.png'},
+        ]
+    },
+    {
+        name: 'Voxelar',
+        description: 'Voxel art app. Simple as that. Libgdx and MaterialUI were used as tools.',
+        link: <Link href='https://github.com/magirics/voxelar' isExternal><Icon as={FaGithub}></Icon></Link>,
+        images: [
+            { caption: 'Sword project example', width:'300px', src: 'https://raw.githubusercontent.com/magirics/voxelar/media/readme/sword.png' },
+            { caption: 'Rocket team project example', width:'300px', src: 'https://raw.githubusercontent.com/magirics/voxelar/media/readme/rocket_team.png', },
+            { caption: 'Main menu', width:'300px', src: 'https://raw.githubusercontent.com/magirics/voxelar/media/readme/main.png', },
+            { caption: 'New created project', width:'300px', src: 'https://raw.githubusercontent.com/magirics/voxelar/media/readme/start_block.png', },
+            { caption: 'Export to stl format functionality', width:'300px', src: 'https://raw.githubusercontent.com/magirics/voxelar/media/readme/export.png', },
+        ]
+    },
 ]
