@@ -14,7 +14,7 @@ export default function Footer(props) {
       <Box></Box>
       <Box width='20rem' display='inline-block'>
         <Text fontWeight='semibold'>Phone:</Text>
-        <Link href='tel:+51-968-973-223'>+51-968-973-223</Link>
+        <Link href='tel:+51-968-973-223'>+51 975 932 697</Link>
       </Box>
       <Box display='inline-block'>
         <Text fontWeight='semibold'>LinkedIn:</Text>
