@@ -15,11 +15,11 @@ export default [
         description: 'Inventory and transaction system prototypes. Firebase, ChakraUI, Formik, Dinero.js, and React were used in its development.',
         link: <Link href='https://github.com/magirics/mikrotres' isExternal><Icon as={FaGithub} viewBox="0 0 24 24" filter='grayscale(100%)'></Icon></Link>,
         images: [
-            {caption: 'Login page', width: '300px', src: 'https://raw.githubusercontent.com/magirics/portfolio/main/public/Chaka Journey/home.png'},
-            {caption: 'Inventory page', width: '300px', src: 'https://raw.githubusercontent.com/magirics/portfolio/main/public/Chaka Journey/masters.png'},
-            {caption: 'Product form', width: '300px', src: 'https://raw.githubusercontent.com/magirics/portfolio/main/public/Chaka Journey/master.png'},
-            {caption: 'Transactions page', width: '300px', src: 'https://raw.githubusercontent.com/magirics/portfolio/main/public/Chaka Journey/payment_form.png'},
-            {caption: 'Transaction form', width: '300px', src: 'https://raw.githubusercontent.com/magirics/portfolio/main/public/Chaka Journey/us.png'},
+            {caption: 'Login page', width: '300px', src: 'https://raw.githubusercontent.com/magirics/portfolio/main/public/chaka_journey/home.png'},
+            {caption: 'Inventory page', width: '300px', src: 'https://raw.githubusercontent.com/magirics/portfolio/main/public/chaka_journey/masters.png'},
+            {caption: 'Product form', width: '300px', src: 'https://raw.githubusercontent.com/magirics/portfolio/main/public/chaka_journey/master.png'},
+            {caption: 'Transactions page', width: '300px', src: 'https://raw.githubusercontent.com/magirics/portfolio/main/public/chaka_journey/payment_form.png'},
+            {caption: 'Transaction form', width: '300px', src: 'https://raw.githubusercontent.com/magirics/portfolio/main/public/chaka_journey/us.png'},
         ]
     },
     {
@@ -27,35 +27,35 @@ export default [
         description: 'Inventory and transaction system prototypes. Firebase, ChakraUI, Formik, Dinero.js, and React were used in its development.',
         link: <Link href='https://github.com/magirics/mikrotres' isExternal><Icon as={FaGithub} viewBox="0 0 24 24" filter='grayscale(100%)'></Icon></Link>,
         images: [
-            {caption: 'Login page', width: '300px', src: 'https://raw.githubusercontent.com/magirics/portfolio/main/public/login.png'},
-            {caption: 'Inventory page', width: '300px', src: 'https://raw.githubusercontent.com/magirics/portfolio/main/public/inventory.png'},
-            {caption: 'Product form', width: '300px', src: 'https://raw.githubusercontent.com/magirics/portfolio/main/public/product_form.png'},
-            {caption: 'Transactions page', width: '300px', src: 'https://raw.githubusercontent.com/magirics/portfolio/main/public/transactions.png'},
-            {caption: 'Transaction form', width: '300px', src: 'https://raw.githubusercontent.com/magirics/portfolio/main/public/transactions_form.png'},
+            {caption: 'Login page', width: '300px', src: 'https://raw.githubusercontent.com/magirics/portfolio/main/public/mikrotel/login.png'},
+            {caption: 'Inventory page', width: '300px', src: 'https://raw.githubusercontent.com/magirics/portfolio/main/public/mikrotel/inventory.png'},
+            {caption: 'Product form', width: '300px', src: 'https://raw.githubusercontent.com/magirics/portfolio/main/public/mikrotel/product_form.png'},
+            {caption: 'Transactions page', width: '300px', src: 'https://raw.githubusercontent.com/magirics/portfolio/main/public/mikrotel/transactions.png'},
+            {caption: 'Transaction form', width: '300px', src: 'https://raw.githubusercontent.com/magirics/portfolio/main/public/mikrotel/transactions_form.png'},
         ]
     },
-    {
-        name: 'Gridd',
-        description: 'Voxel art app. Simple as that. Libgdx and MaterialUI were used as tools.',
-        link: <Link href='https://github.com/magirics/voxelar' isExternal><Icon as={FaGithub}></Icon></Link>,
-        images: [
-            { caption: 'Sword project example', width:'300px', src: 'https://raw.githubusercontent.com/magirics/voxelar/media/readme/sword.png' },
-            { caption: 'Rocket team project example', width:'300px', src: 'https://raw.githubusercontent.com/magirics/voxelar/media/readme/rocket_team.png', },
-            { caption: 'Main menu', width:'300px', src: 'https://raw.githubusercontent.com/magirics/voxelar/media/readme/main.png', },
-            { caption: 'New created project', width:'300px', src: 'https://raw.githubusercontent.com/magirics/voxelar/media/readme/start_block.png', },
-            { caption: 'Export to stl format functionality', width:'300px', src: 'https://raw.githubusercontent.com/magirics/voxelar/media/readme/export.png', },
-        ]
-    },
+    // {
+    //     name: 'Gridd',
+    //     description: 'Voxel art app. Simple as that. Libgdx and MaterialUI were used as tools.',
+    //     link: <Link href='https://github.com/magirics/voxelar' isExternal><Icon as={FaGithub}></Icon></Link>,
+    //     images: [
+    //         { caption: 'Sword project example', width:'300px', src: 'https://raw.githubusercontent.com/magirics/portfolio/main/pulic/grid/sword.png' },
+    //         { caption: 'Rocket team project example', width:'300px', src: 'https://raw.githubusercontent.com/magirics/portfolio/main/pulic/grid/rocket_team.png', },
+    //         { caption: 'Main menu', width:'300px', src: 'https://raw.githubusercontent.com/magirics/portfolio/main/pulic/grid/main.png', },
+    //         { caption: 'New created project', width:'300px', src: 'https://raw.githubusercontent.com/magirics/portfolio/main/pulic/grid/start_block.png', },
+    //         { caption: 'Export to stl format functionality', width:'300px', src: 'https://raw.githubusercontent.com/magirics/portfolio/main/pulic/grid/export.png', },
+    //     ]
+    // },
         {
         name: 'Voxelar',
         description: 'Voxel art app. Simple as that. Libgdx and MaterialUI were used as tools.',
         link: <Link href='https://github.com/magirics/voxelar' isExternal><Icon as={FaGithub}></Icon></Link>,
         images: [
-            { caption: 'Sword project example', width:'300px', src: 'https://raw.githubusercontent.com/magirics/portfolio/main/public/sword.png' },
-            { caption: 'Rocket team project example', width:'300px', src: 'https://raw.githubusercontent.com/magirics/portfolio/main/public/rocket_team.png', },
-            { caption: 'Main menu', width:'300px', src: 'https://raw.githubusercontent.com/magirics/portfolio/main/public/main.png', },
-            { caption: 'New created project', width:'300px', src: 'https://raw.githubusercontent.com/magirics/portfolio/main/public/start_block.png', },
-            { caption: 'Export to stl format functionality', width:'300px', src: 'https://raw.githubusercontent.com/magirics/portfolio/main/public/export.png', },
+            { caption: 'Sword project example', width:'300px', src: 'https://raw.githubusercontent.com/magirics/portfolio/main/public/voxelar/sword.png' },
+            { caption: 'Rocket team project example', width:'300px', src: 'https://raw.githubusercontent.com/magirics/portfolio/main/public/voxelar/rocket_team.png', },
+            { caption: 'Main menu', width:'300px', src: 'https://raw.githubusercontent.com/magirics/portfolio/main/public/voxelar/main.png', },
+            { caption: 'New created project', width:'300px', src: 'https://raw.githubusercontent.com/magirics/portfolio/main/public/voxelar/start_block.png', },
+            { caption: 'Export to stl format functionality', width:'300px', src: 'https://raw.githubusercontent.com/magirics/portfolio/main/public/voxelar/export.png', },
         ]
     },
 ]
