@@ -15,11 +15,11 @@ export default [
         description: 'Inventory and transaction system prototypes. Firebase, ChakraUI, Formik, Dinero.js, and React were used in its development.',
         link: <Link href='https://github.com/magirics/mikrotres' isExternal><Icon as={FaGithub} viewBox="0 0 24 24" filter='grayscale(100%)'></Icon></Link>,
         images: [
-            {caption: 'Login page', width: '300px', src: 'https://raw.githubusercontent.com/magirics/portfolio/main/public/projects/chaka_journey/home.png'},
-            {caption: 'Inventory page', width: '300px', src: 'https://raw.githubusercontent.com/magirics/portfolio/main/public/projects/chaka_journey/masters.png'},
-            {caption: 'Product form', width: '300px', src: 'https://raw.githubusercontent.com/magirics/portfolio/main/public/projects/chaka_journey/master.png'},
-            {caption: 'Transactions page', width: '300px', src: 'https://raw.githubusercontent.com/magirics/portfolio/main/public/projects/chaka_journey/payment_form.png'},
-            {caption: 'Transaction form', width: '300px', src: 'https://raw.githubusercontent.com/magirics/portfolio/main/public/projects/chaka_journey/us.png'},
+            {caption: 'Home page', width: '300px', src: 'https://raw.githubusercontent.com/magirics/portfolio/main/public/projects/chaka_journey/home.png'},
+            {caption: 'Masters page', width: '300px', src: 'https://raw.githubusercontent.com/magirics/portfolio/main/public/projects/chaka_journey/masters.png'},
+            {caption: 'Master page', width: '300px', src: 'https://raw.githubusercontent.com/magirics/portfolio/main/public/projects/chaka_journey/master.png'},
+            {caption: 'Payment form', width: '300px', src: 'https://raw.githubusercontent.com/magirics/portfolio/main/public/projects/chaka_journey/payment_form.png'},
+            {caption: 'Us Page', width: '300px', src: 'https://raw.githubusercontent.com/magirics/portfolio/main/public/projects/chaka_journey/us.png'},
         ]
     },
     {
