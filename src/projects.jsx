@@ -15,11 +15,11 @@ export default [
         description: 'Inventory and transaction system prototypes. Firebase, ChakraUI, Formik, Dinero.js, and React were used in its development.',
         link: <Link href='https://github.com/magirics/mikrotres' isExternal><Icon as={FaGithub} viewBox="0 0 24 24" filter='grayscale(100%)'></Icon></Link>,
         images: [
-            {caption: 'Login page', width: '300px', src: 'https://raw.githubusercontent.com/magirics/mikrotres/media/readme/login.png'},
-            {caption: 'Inventory page', width: '300px', src: 'https://raw.githubusercontent.com/magirics/mikrotres/media/readme/inventory.png'},
-            {caption: 'Product form', width: '300px', src: 'https://raw.githubusercontent.com/magirics/mikrotres/media/readme/product_form.png'},
-            {caption: 'Transactions page', width: '300px', src: 'https://raw.githubusercontent.com/magirics/mikrotres/media/readme/transactions.png'},
-            {caption: 'Transaction form', width: '300px', src: 'https://raw.githubusercontent.com/magirics/mikrotres/media/readme/transactions_form.png'},
+            {caption: 'Login page', width: '300px', src: 'https://raw.githubusercontent.com/magirics/portfolio/main/public/Chaka Journey/home.png'},
+            {caption: 'Inventory page', width: '300px', src: 'https://raw.githubusercontent.com/magirics/portfolio/main/public/Chaka Journey/masters.png'},
+            {caption: 'Product form', width: '300px', src: 'https://raw.githubusercontent.com/magirics/portfolio/main/public/Chaka Journey/master.png'},
+            {caption: 'Transactions page', width: '300px', src: 'https://raw.githubusercontent.com/magirics/portfolio/main/public/Chaka Journey/payment_form.png'},
+            {caption: 'Transaction form', width: '300px', src: 'https://raw.githubusercontent.com/magirics/portfolio/main/public/Chaka Journey/us.png'},
         ]
     },
     {
