@@ -13,7 +13,7 @@ export default [
         {
         name: 'Chaka Journey',
         description: 'Marketplace platform that allows users to book sessions with artists. Next.js and Stripe were used.',
-        link: <Link href='https://github.com/magirics/mikrotres' isExternal><Icon as={FaGithub} viewBox="0 0 24 24" filter='grayscale(100%)'></Icon></Link>,
+        link: <Link href='https://github.com/magirics/chaka_journey_website' isExternal><Icon as={FaGithub} viewBox="0 0 24 24" filter='grayscale(100%)'></Icon></Link>,
         images: [
             {caption: 'Home page', width: '300px', src: 'https://raw.githubusercontent.com/magirics/portfolio/main/public/projects/chaka_journey/home.png'},
             {caption: 'Masters page', width: '300px', src: 'https://raw.githubusercontent.com/magirics/portfolio/main/public/projects/chaka_journey/masters.png'},
@@ -25,7 +25,7 @@ export default [
     {
         name: 'Mikrotel',
         description: 'Inventory and transaction system prototypes. Firebase, ChakraUI, Formik, Dinero.js, and React were used in its development.',
-        link: <Link href='https://github.com/magirics/mikrotres' isExternal><Icon as={FaGithub} viewBox="0 0 24 24" filter='grayscale(100%)'></Icon></Link>,
+        link: <Link href='https://github.com/magirics/mikrotres_website' isExternal><Icon as={FaGithub} viewBox="0 0 24 24" filter='grayscale(100%)'></Icon></Link>,
         images: [
             {caption: 'Login page', width: '300px', src: 'https://raw.githubusercontent.com/magirics/portfolio/main/public/projects/mikrotel/login.png'},
             {caption: 'Inventory page', width: '300px', src: 'https://raw.githubusercontent.com/magirics/portfolio/main/public/projects/mikrotel/inventory.png'},
@@ -49,7 +49,7 @@ export default [
         {
         name: 'Voxelar',
         description: 'Voxel art app. Simple as that. Libgdx and MaterialUI were used as tools.',
-        link: <Link href='https://github.com/magirics/voxelar' isExternal><Icon as={FaGithub}></Icon></Link>,
+        link: <Link href='https://github.com/magirics/voxelar_app' isExternal><Icon as={FaGithub}></Icon></Link>,
         images: [
             { caption: 'Sword project example', width:'300px', src: 'https://raw.githubusercontent.com/magirics/portfolio/main/public/projects/voxelar/sword.png' },
             { caption: 'Rocket team project example', width:'300px', src: 'https://raw.githubusercontent.com/magirics/portfolio/main/public/projects/voxelar/rocket_team.png', },
