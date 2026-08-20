@@ -12,7 +12,7 @@ const collab = <svg><g>
 export default [
         {
         name: 'Chaka Journey',
-        description: 'Marketplace platform that allows users to book sessions with artists.',
+        description: 'Marketplace platform that allows users to book sessions with artists. Next.js and Stripe were used.',
         link: <Link href='https://github.com/magirics/mikrotres' isExternal><Icon as={FaGithub} viewBox="0 0 24 24" filter='grayscale(100%)'></Icon></Link>,
         images: [
             {caption: 'Home page', width: '300px', src: 'https://raw.githubusercontent.com/magirics/portfolio/main/public/projects/chaka_journey/home.png'},
