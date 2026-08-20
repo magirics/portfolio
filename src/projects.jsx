@@ -12,7 +12,7 @@ const collab = <svg><g>
 export default [
         {
         name: 'Chaka Journey',
-        description: 'Inventory and transaction system prototypes. Firebase, ChakraUI, Formik, Dinero.js, and React were used in its development.',
+        description: 'Marketplace platform that allows users to book sessions with artists.',
         link: <Link href='https://github.com/magirics/mikrotres' isExternal><Icon as={FaGithub} viewBox="0 0 24 24" filter='grayscale(100%)'></Icon></Link>,
         images: [
             {caption: 'Home page', width: '300px', src: 'https://raw.githubusercontent.com/magirics/portfolio/main/public/projects/chaka_journey/home.png'},
